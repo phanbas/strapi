@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trades",
+  "info": {
+    "singularName": "trade",
+    "pluralName": "trades",
+    "displayName": "trade",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "desc": {
+      "type": "richtext"
+    },
+    "location": {
+      "type": "string"
+    },
+    "ImageLink": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "loves",
+  "info": {
+    "singularName": "love",
+    "pluralName": "loves",
+    "displayName": "love",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "desc": {
+      "type": "richtext"
+    },
+    "location": {
+      "type": "string"
+    },
+    "ImageLink": {
+      "type": "string"
+    }
+  }
+}
