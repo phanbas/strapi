@@ -34,6 +34,9 @@
     },
     "time": {
       "type": "string"
+    },
+    "travel": {
+      "type": "string"
     }
   }
 }
