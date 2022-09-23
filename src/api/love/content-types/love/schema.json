@@ -25,6 +25,15 @@
     },
     "ImageLink": {
       "type": "string"
+    },
+    "spell": {
+      "type": "string"
+    },
+    "gift": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
     }
   }
 }
