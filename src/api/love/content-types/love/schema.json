@@ -27,16 +27,16 @@
       "type": "string"
     },
     "spell": {
-      "type": "string"
+      "type": "richtext"
     },
     "gift": {
-      "type": "string"
+      "type": "richtext"
     },
     "time": {
-      "type": "string"
+      "type": "richtext"
     },
     "travel": {
-      "type": "string"
+      "type": "richtext"
     }
   }
 }
